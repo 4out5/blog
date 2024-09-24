@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Welcome to the 4out5 Team Blog"
 date:   2024-09-24 21:58:02 +0100
-categories: jekyll update
+categories: 
 ---
-
-
-# Welcome to the 4out5 Team Blog
 
 ## Introduction
 
@@ -21,8 +18,10 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
 ## Meet the Team
 
 ### Member 1: Filipe Ramos Alves
-
-Hello! I'm Filipe Alves, and I'm passionate about building useful apps. With a background in computer science, I aim to contribute to projects that make a real difference in people's lives. I'm excited to be part of the 4out5 team and look forward to the challenges ahead.
+<div style="display: flex; align-items: center;">
+    <img src="../assets/images/filipe_profile_pic.png" alt="Alt text" width="150" height="150" style="margin-right: 20px;">
+    <p>Hello! I'm Filipe Alves, and I'm passionate about building useful apps. With a background in computer science, I aim to contribute to projects that make a real difference in people's lives. I'm excited to be part of the 4out5 team and look forward to the challenges ahead.</p>
+</div>
 
 ### Member 2: [Member's Name]
 
