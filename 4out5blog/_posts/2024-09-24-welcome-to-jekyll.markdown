@@ -1,29 +1,40 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World"
 date:   2024-09-24 21:58:02 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+# Welcome to the 4out5 Team Blog
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Introduction
 
-Jekyll also offers powerful support for code snippets:
+Welcome to the official blog of **4out5**! We are a team formed during our master's degree course, embarking on an exciting journey of innovation and learning about AI. This blog will serve as our weekly report, where we'll share our progress, challenges, and achievements as we tackle open-ended projects.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Our educational approach is centered around **Challenge-based Learning** and **AI Thinking**. We engage in **active learning based on open challenges**, allowing us to integrate various disciplines and foster creative solutions. Our projects are user-oriented (*orientação ao utilizador*), ensuring that the end-users' needs and experiences are at the forefront of our designs.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+An essential part of our journey is developing the ability to **present and pitch ideas** (*capacidade de “apresentar/vender” ideias*). We'll be participating in **Demo Days**, showcasing our projects to peers, professors, and industry professionals. These events are not just about demonstrating our solutions but also about refining our communication skills and receiving valuable feedback.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Stay tuned as we navigate through this exciting adventure, embracing challenges, and pushing the boundaries of what's possible with AI.
+
+## Meet the Team
+
+### Member 1: Filipe Ramos Alves
+
+Hello! I'm Filipe Alves, and I'm passionate about building useful apps. With a background in computer science, I aim to contribute to projects that make a real difference in people's lives. I'm excited to be part of the 4out5 team and look forward to the challenges ahead.
+
+### Member 2: [Member's Name]
+
+[Member's introduction]
+
+### Member 3: [Member's Name]
+
+[Member's introduction]
+
+### Member 4: [Member's Name]
+
+[Member's introduction]
+
+
+We invite you to join us on this journey as we learn, grow, and innovate together. Your feedback and support are invaluable to us. Let's make this an interactive and engaging experience for everyone involved!
