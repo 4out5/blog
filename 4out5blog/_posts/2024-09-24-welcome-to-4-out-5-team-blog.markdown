@@ -19,7 +19,7 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
 
 ### Member 1: Filipe Ramos Alves
 <div style="display: flex; align-items: center;">
-    <img src="/assets/images/filipe_profile_pic.png" alt="Filipe Picture" width="150" height="150" style="margin-right: 20px;">
+    <img src="./assets/images/filipe_profile_pic.png" alt="Filipe Picture" width="150" height="150" style="margin-right: 20px;">
     <p>Hello! I'm Filipe Alves, and I'm passionate about building useful apps. With a background in computer science, I aim to contribute to projects that make a real difference in people's lives. I'm excited to be part of the 4out5 team and look forward to the challenges ahead.</p>
 </div>
 
