@@ -43,13 +43,15 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # Outputs to the './4out5blog/_site' directory
+        run: bundle exec jekyll build --source ./4out5blog --destination ./4out5blog/_site --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
+        # Automatically uploads an artifact from the './4out5blog/_site' directory
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./4out5blog/_site
 
   # Deployment job
   deploy:
