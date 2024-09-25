@@ -34,9 +34,11 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
     <p>Hi! I'm Bruno Sobreira, a software engineer with a passion for creating impactful digital solutions. With experience in building applications in the health sector, I aim to contribute to projects that improve user experiences and make a real difference. I’m thrilled to join the 4out5 team and eager to tackle the exciting challenges that lie ahead!</p>
 </div>
 
-### Member 4: [Member's Name]
-
-[Member's introduction]
+### Member 4: Wilson Hermes Jacoud Junior
+<div style="display: flex; align-items: center;">
+    <img src="./assets/images/wjacoud_profile_pic.png" alt="Wilson Picture" width="150" height="150" style="margin-right: 20px;">
+    <p>Coming from Brazil five years ago, I am eager to embrace new challenges. With background in audio engineering, computer engineering, and healthcare technologies, I am excited to be part of this project and this team. This opportunity perfectly aligns with the career steps I have planned and will allow me to contribute my skills while learning from an inspiring environment.</p>
+</div>
 
 
 
