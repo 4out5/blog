@@ -27,9 +27,12 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
 
 [Member's introduction]
 
-### Member 3: [Member's Name]
+### Member 3: Bruno Miguel Aires Sobreira
 
-[Member's introduction]
+<div style="display: flex; align-items: center;">
+    <img src="./assets/images/bruno_profile_pic.png" alt="Bruno Picture" width="150" height="150" style="margin-right: 20px;">
+    <p>Hi! I'm Bruno Sobreira, a software engineer with a passion for creating impactful digital solutions. With experience in building applications in the health sector, I aim to contribute to projects that improve user experiences and make a real difference. I’m thrilled to join the 4out5 team and eager to tackle the exciting challenges that lie ahead!</p>
+</div>
 
 ### Member 4: [Member's Name]
 
