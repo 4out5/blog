@@ -26,9 +26,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  4out5
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
+
+menu:
+  - title: Projects
+    url:   /projects/
+  - title: About
+    url:   /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
