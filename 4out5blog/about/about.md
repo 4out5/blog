@@ -1,0 +1,15 @@
+---
+layout: about
+title:  About
+---
+
+## Introduction
+
+Welcome to the official blog of **4out5**! We are a team formed during our master's degree course, embarking on an exciting journey of innovation and learning about AI. This blog will serve as our weekly report, where we'll share our progress, challenges, and achievements as we tackle open-ended projects.
+
+Our educational approach is centered around **Challenge-based Learning** and **AI Thinking**. We engage in **active learning based on open challenges**, allowing us to integrate various disciplines and foster creative solutions. Our projects are user-oriented (*orientação ao utilizador*), ensuring that the end-users' needs and experiences are at the forefront of our designs.
+
+An essential part of our journey is developing the ability to **present and pitch ideas** (*capacidade de “apresentar/vender” ideias*). We'll be participating in **Demo Days**, showcasing our projects to peers, professors, and industry professionals. These events are not just about demonstrating our solutions but also about refining our communication skills and receiving valuable feedback.
+
+Stay tuned as we navigate through this exciting adventure, embracing challenges, and pushing the boundaries of what's possible with AI.
+We invite you to join us on this journey as we learn, grow, and innovate together. Your feedback and support are invaluable to us. Let's make this an interactive and engaging experience for everyone involved!
