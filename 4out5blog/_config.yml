@@ -22,7 +22,7 @@ title: 4out5 Blog
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is meant to serve as a platform for the group 4out5 to share their thoughts and experiences on the development of our Master Degree projects. We hope you find it interesting and informative.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://4out5.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://4out5.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  4out5
 
 # Build settings
