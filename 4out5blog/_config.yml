@@ -34,7 +34,7 @@ menu:
   - title: Projects
     url:   /projects/
   - title: About
-    url:   /about/
+    url:   ./about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
