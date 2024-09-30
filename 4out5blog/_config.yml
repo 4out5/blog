@@ -31,10 +31,15 @@ plugins:
   - jekyll-feed
 
 menu:
-  - title: Projects
-    url:   /projects/
+  - title: Challenges
+    url:   /challenges/
   - title: About
     url:   /about/
+
+collections:
+  challenges:
+    permalink: /challenges/:path/
+    output:    true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
