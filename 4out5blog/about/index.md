@@ -15,11 +15,12 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
 
 ## Meet the Team
 
-### Member 1: Filipe Ramos Alves
+### Member 1: Bruno Miguel Aires Sobreira
 
-|                                                                                                     |                                                                                                                                                                                                                                                                                  |
-|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://4out5.github.io/blog/assets/images/filipe_profile_pic.png" alt="Filipe Picture" > | Hello! I'm Filipe Alves, and I'm passionate about building useful apps. With a background in computer science, I aim to contribute to projects that make a real difference in people's lives. I'm excited to be part of the 4out5 team and look forward to the challenges ahead. |
+|                                                                                                   |                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://4out5.github.io/blog/assets/images/bruno_profile_pic.jpeg" alt="Bruno Picture" > | Hi! I'm Bruno Sobreira, a software engineer with a passion for creating impactful digital solutions. With experience in building applications in the health sector, I aim to contribute to projects that improve user experiences and make a real difference. I’m thrilled to join the 4out5 team and eager to tackle the exciting challenges that lie ahead! |
+
 
 ### Member 2: Filipe Daniel Nogueira Barbosa Pereira
 
@@ -29,12 +30,11 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
 | <img src="https://4out5.github.io/blog/assets/images/filipePereira_profile_pic.jpg" alt="Filipe Pereira Picture" > | Hi! I’m Filipe Pereira. I began my academic journey with a degree in Pharmacy, and last year, I earned my second degree in Computer Engineering.Currently, I am pursuing a master’s degree in AI, and my team’s focus is on health (interesting, right? ;)). I’m really excited to be part of this team and eager to tackle the upcoming challenges. |
 
 
-### Member 3: Bruno Miguel Aires Sobreira
+### Member 3: Filipe Ramos Alves
 
-
-|                                                                                                   |                                                                                                                                                                                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://4out5.github.io/blog/assets/images/bruno_profile_pic.jpeg" alt="Bruno Picture" > | Hi! I'm Bruno Sobreira, a software engineer with a passion for creating impactful digital solutions. With experience in building applications in the health sector, I aim to contribute to projects that improve user experiences and make a real difference. I’m thrilled to join the 4out5 team and eager to tackle the exciting challenges that lie ahead! |
+|                                                                                                     |                                                                                                                                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://4out5.github.io/blog/assets/images/filipe_profile_pic.png" alt="Filipe Picture" > | Hello! I'm Filipe Alves, and I'm passionate about building useful apps. With a background in computer science, I aim to contribute to projects that make a real difference in people's lives. I'm excited to be part of the 4out5 team and look forward to the challenges ahead. |
 
 
 ### Member 4: Wilson Hermes Jacoud Junior
