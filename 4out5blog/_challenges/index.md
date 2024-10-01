@@ -4,4 +4,5 @@ title: "Challenges"
 permalink: /challenges/
 ---
 
-- [1st Challenge](/challenges/challenge-1/)
+- [1st Challenge]({{ "/challenges/challenge-1/" | relative_url }})
+

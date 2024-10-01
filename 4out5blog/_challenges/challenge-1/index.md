@@ -6,5 +6,5 @@ permalink: /challenges/challenge-1/
 
 ### Weekly Reports
 
-- [1st Week](/challenges/challenge-1/week-1)
-- [2nd Week](/challenges/challenge-1/week-2)
+- [1st Week]({{ "/challenges/challenge-1/week-1" | relative_url}})
+- [1st Week]({{ "/challenges/challenge-1/week-2" | relative_url}})
