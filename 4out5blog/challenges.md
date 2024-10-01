@@ -8,4 +8,4 @@ grouped: true
 
 ## Challenges List
 
-- [Challenge 1: Expert System](/challenges/first)
+- [Challenge 1: Expert System](/challenges/weekly-reports)

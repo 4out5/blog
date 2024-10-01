@@ -1,12 +1,9 @@
 ---
-title: "1st Challenge"
-date: 16-09-2024
-layout: post
+layout: default
+title: "Week 1 Report"
+date: 2024-09-20
+permalink: /challenges/challenge-1/week-1/
 ---
-
-## 1st Week
-### 20-09-2024
-
 In this first week of the challenge, we had the opportunity to get to know our application area, Health. It was also the week when we got to know each other and established our communication and collaboration channels, such as creating a group on Microsoft Teams, Discord, and a GitHub repository, to facilitate progress tracking, task organization, and collaborative project development.
 
 After this initial phase of organization, we turned our attention to selecting the specific area within the broad field of health. After analyzing the involvement and expertise of each group member, we agreed that Pharmacy would be a good area to focus on due to its direct impact on people's lives and the abundance of relevant data available, such as information on medications, dosages, interactions, and pathologies. Furthermore, pharmacy is a field where decision support systems can play a crucial role, both in recommending medications and ensuring patient safety, as errors in prescription or combining medications can lead to serious health issues.
