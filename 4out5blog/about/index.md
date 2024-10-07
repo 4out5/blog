@@ -45,5 +45,12 @@ Stay tuned as we navigate through this exciting adventure, embracing challenges,
 
 
 
+### Member 5: Mariana Alves Carneiro
+
+|                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://4out5.github.io/blog//assets/images/mariana_profile_pic.png" alt="Mariana Carneiro" > | Hello, I'm Mariana Carneiro, a software engineer passionate about the limitless possibilities that AI presents in solving complex problems. With a background in Computer Science and currently pursuing a Master's in AI Engineering, I am dedicated to leveraging cutting-edge technology to create innovative and impactful solutions. |
+
+
 ---
 We invite you to join us on this journey as we learn, grow, and innovate together. Your feedback and support are invaluable to us. Let's make this an interactive and engaging experience for everyone involved!
