@@ -1,8 +1,8 @@
 ---
 layout: default
-title: '3rd Week Report'
+title: '4th Week Report'
 date: 2024-10-05
-permalink: /challenges/challenge-1/week-3/
+permalink: /challenges/challenge-1/week-4/
 ---
 
 In the fourth week, we made significant progress in refining our project. We had direct contact with two experts, both pharmacists, which allowed us to further improve the flowchart of the system. The feedback we received from them was crucial in validating our current approach and guiding the necessary refinements. With these adjustments, we expect that by next week, we will be ready to begin working on the knowledge base, which is a core component of the expert system.
