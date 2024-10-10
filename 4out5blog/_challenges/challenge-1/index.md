@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1st Challenge Overview"
+title: '1st Challenge Overview'
 permalink: /challenges/challenge-1/
 ---
 
@@ -8,3 +8,4 @@ permalink: /challenges/challenge-1/
 
 - [1st Week]({{ "/challenges/challenge-1/week-1" | relative_url}})
 - [2nd Week]({{ "/challenges/challenge-1/week-2" | relative_url}})
+- [3rd Week]({{ "/challenges/challenge-1/week-3" | relative_url}})
