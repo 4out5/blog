@@ -11,3 +11,4 @@ permalink: /challenges/challenge-1/
 - [3rd Week]({{ "/challenges/challenge-1/week-3" | relative_url}})
 - [4th Week]({{ "/challenges/challenge-1/week-4" | relative_url}})
 - [5th Week]({{ "/challenges/challenge-1/week-5" | relative_url}})
+- [6th Week]({{ "/challenges/challenge-1/week-6" | relative_url}})

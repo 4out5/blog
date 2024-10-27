@@ -5,4 +5,8 @@
 layout: home
 ---
 
-Hello, World! We are working on our first blog post, so stay tuned for updates. In the meantime, feel free to check out our [About](/about/) page to learn more about our team and our journey. We look forward to sharing our progress with you!
+Hello, World! This blog serves as updates on the projects of our team, check our challenges, stay tuned for updates (you can subscribe via RSS). In the meantime, feel free to check out our [About](/about/) page to learn more about our team and our journey. We look forward to sharing our progress with you!
+
+## Latest Posts
+
+- [6th Week]({{ "/challenges/challenge-1/week-6" | relative_url}})
