@@ -9,4 +9,4 @@ Hello, World! This blog serves as updates on the projects of our team, check our
 
 ## Latest Posts
 
-- [6th Week]({{ "/challenges/challenge-1/week-6" | relative_url}})
+- [7th Week]({{ "/challenges/challenge-1/week-7" | relative_url}})
